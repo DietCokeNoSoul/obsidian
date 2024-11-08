@@ -1,0 +1,8 @@
+{
+  "theme": "moonstone",
+  "baseFontSize": 17,
+  "textFontFamily": "Inter",
+  "interfaceFontFamily": "Inter",
+  "baseFontSizeAction": true,
+  "cssTheme": "zmk-ink"
+}
