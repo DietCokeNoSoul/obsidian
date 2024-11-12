@@ -16,3 +16,8 @@ tags:
 初始特征矩阵门控加进Transformer结果①
 KAN+CNN①
 ![[62ccf7ddecece44fa273a2d5ea1e96b.jpg]]![[d8e52c894ce5c03122df1aac0fda7fc.jpg]]
+
+## seed
+
+### 单Transformer
+head=2 layer=1

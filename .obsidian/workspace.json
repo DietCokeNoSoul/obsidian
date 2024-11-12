@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "水导组会.md",
+                "file": "idea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "水导组会"
+              "title": "idea"
             }
           }
         ],
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "水导组会.md"
+                "file": "idea.md"
               },
               "icon": "lucide-list",
-              "title": "水导组会 的大纲"
+              "title": "idea 的大纲"
             }
           },
           {
@@ -178,10 +178,10 @@
   },
   "active": "ea5a53d2fa128d2d",
   "lastOpenFiles": [
-    "idea.md",
-    "niumo.md",
     "水导组会.md",
     "Java/Java进度.md",
+    "idea.md",
+    "niumo.md",
     "Java/图片/62ccf7ddecece44fa273a2d5ea1e96b.jpg",
     "Java/图片/d8e52c894ce5c03122df1aac0fda7fc.jpg",
     "Java/2-基础语法/5.常用类/2.String.md",
