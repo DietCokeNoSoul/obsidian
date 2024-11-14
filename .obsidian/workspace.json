@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "30eb81215b2cd16c",
+        "id": "32da740eed54e510",
         "type": "tabs",
         "children": [
           {
-            "id": "ea5a53d2fa128d2d",
+            "id": "2ce8861f8eb596f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -176,11 +176,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea5a53d2fa128d2d",
+  "active": "2ce8861f8eb596f0",
   "lastOpenFiles": [
-    "水导组会.md",
+    "屏幕截图 2024-11-14 180951.png",
+    "up.md",
     "Java/Java进度.md",
     "idea.md",
+    "Screenshot 2024-11-12 105622.png",
+    "未命名.canvas",
     "niumo.md",
     "Java/图片/62ccf7ddecece44fa273a2d5ea1e96b.jpg",
     "Java/图片/d8e52c894ce5c03122df1aac0fda7fc.jpg",
@@ -208,7 +211,6 @@
     "Java",
     "37038C7D.png",
     "Java/1-Java概述/1.What is Java.md",
-    "2024-11-01.md",
     "Java/图片/Screenshot 2024-10-13 160618 1.png",
     "Screenshot 2024-10-13 160618.png",
     "Java/图片/Screenshot 2024-10-06 171725.png",
@@ -216,11 +218,9 @@
     "Screenshot 2024-10-06 114348.png",
     "Java/2-基础语法/5.常用类",
     "Java/图片/Screenshot 2024-10-06 112537.png",
-    "未命名.canvas",
     "Java/2-基础语法/4.异常",
     "Java/2-基础语法/3.枚举和注解",
     "Java/设计模式",
-    "Java/图片/Screenshot 2024-09-22 172330.png",
     "Java/图片",
     "Java/2-基础语法/2.面向对象",
     "Java/2-基础语法/1.基本语法",
