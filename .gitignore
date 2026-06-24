@@ -1,0 +1,26 @@
+# Text extraction outputs
+extracted_text.*
+obsidian_extracted_text.*
+pure_text_only.*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
